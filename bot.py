@@ -47,7 +47,7 @@ from botmodules.calculate import calculate
 from botmodules.imgur import imgur_hon
 
 cat_API_key = config['thecatapi']['API_KEY']
-grabtoken = config['telegram']['token']
+grabtoken = config['telegram']['216906511:AAEDEOPUBmV-__U2ghZ1An1qgFXHZJMDjhQ']
 
 bot = telegram.Bot(token=grabtoken.encode('utf8'))
 
